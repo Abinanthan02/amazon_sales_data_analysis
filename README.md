@@ -1,3 +1,4 @@
+AMAZON SALES DATA ANALYSIS
 Amazon Product Sales Analysis & Recommendation System
 This project performs Exploratory Data Analysis (EDA) and builds a value-based product recommendation system using Amazon product data. Since actual sales figures are not available, we use proxy metrics like rating count, discount percentage, and customer ratings to infer product popularity and value.
 
